@@ -17,6 +17,7 @@ Aplicativo móvel desenvolvido com React Native, TypeScript e Expo, para gerenci
     - SENHA: 1234
 - Feedback visual e tratamento de erros
 - Interface fluida e responsiva com React Native Paper
+- Caso não haja dados no FireStone para Planos ou Usuário, a função do Botão Tente Novamente foi implementada
 
 # O que foi utilizado
 
